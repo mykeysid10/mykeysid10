@@ -16,6 +16,6 @@
     ~ Public Leaderboard Rank: 9 (Top 1%)
     ~ Private Leaderboard Rank: 14 (Top 1%)
 ###### 4) Code Gladiators Machine Learning Contest (May-June-July-2021): 
-    ~ Round 1: MCQ's: Rank 10 (Top 1%)
-    ~ Round 2: Hackathon:
-    ~ Round 3: Grand Finale: 
+    ~ Round 1: Contest: Rank 10 (Top 1%)
+    ~ Round 2: Hackathon: Rank 24 (Top 1%) 
+    
