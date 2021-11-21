@@ -7,6 +7,6 @@
   ~ [Kaggle](https://www.kaggle.com/mykeysid10)
 
 #### Kaggle:
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/6877898/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/6877898/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/6877898/discussion)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mykeysid10/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mykeysid10/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mykeysid10/discussion)
