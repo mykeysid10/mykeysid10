@@ -7,6 +7,7 @@
   ~ [Kaggle](https://www.kaggle.com/mykeysid10)
 
 #### Kaggle:
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mykeysid10/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mykeysid10/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mykeysid10/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mykeysid10/discussion)
